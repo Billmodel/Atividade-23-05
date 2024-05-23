@@ -1,4 +1,4 @@
-x = 10
-y = 15
-reultado = x+y
+alturacasa = 800
+latitude = 450
+reultado = alturacasa+latitude
 print(resultado)
